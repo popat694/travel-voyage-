@@ -1,0 +1,7 @@
+{
+  "name": "VoyageAI - Smart Trip Itinerary Planner",
+  "description": "A sophisticated AI-powered travel planner that creates, refines, and manages day-wise trip itineraries using the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
